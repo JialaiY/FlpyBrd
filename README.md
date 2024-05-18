@@ -9,10 +9,9 @@ This game is meant to connect people with a user-friendly game that goes on fore
 ## UI Logic and Planning
 ![Class Diagram](https://github.com/JialaiY/FlpyBrd/blob/main/imgs/FlpyBird%20flow.png?raw=true)
 
-## Project Download
-
 ### Link
 [Source Code](https://github.com/JialaiY/FlpyBrd/tree/main/imgs/FlpyBrd)
+[Download Link]("C:\Users\taiyi\Downloads\JYFlpyBrd.zip")
 
 ## Download Instructions
 Download Instructions:
