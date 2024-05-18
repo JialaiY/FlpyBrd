@@ -11,7 +11,7 @@ This game is meant to connect people with a user-friendly game that goes on fore
 
 ### Link
 [Source Code](https://github.com/JialaiY/FlpyBrd/tree/main/imgs/FlpyBrd)
-[Download Link]()
+[Download Link](src/JYFlpyBrd.zip)
 
 ## Download Instructions
 Download Instructions:
